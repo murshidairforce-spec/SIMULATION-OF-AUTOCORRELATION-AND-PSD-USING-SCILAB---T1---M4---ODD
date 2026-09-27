@@ -56,4 +56,16 @@ Visualize the autocorrelation function and PSD.
 - If any Error, correct it in code and execute again.
 - Verify the generated waveform using Tabulation and Model Waveform.
 
+
+## CALCULATION
+<img width="758" height="1517" alt="image" src="https://github.com/user-attachments/assets/c47b3339-3f58-419b-a1c9-5d50df95b0e2" />
+
+
+
+
 ## MODEL GRAPH
+<img width="1097" height="1600" alt="image" src="https://github.com/user-attachments/assets/90a2cf06-7cd9-4ba2-8bc5-14f0781e0bec" />
+
+
+## RESULT 
+Thus, mean variance & Cross correlation wowsform were succeistully gentrated & desired output is obtained
